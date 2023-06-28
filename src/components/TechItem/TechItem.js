@@ -1,18 +1,17 @@
-import React from 'react';
-import Accordion from '@mui/material/Accordion';
-import AccordionSummary from '@mui/material/AccordionSummary';
-import AccordionDetails from '@mui/material/AccordionDetails';
-import Typography from '@mui/material/Typography';
-import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
-import DevIcon from 'devicon-react-svg';
-import { Grid } from '@mui/material';
+import React from "react";
+import Accordion from "@mui/material/Accordion";
+import AccordionSummary from "@mui/material/AccordionSummary";
+import AccordionDetails from "@mui/material/AccordionDetails";
+import Typography from "@mui/material/Typography";
+import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
+import DevIcon from "devicon-react-svg";
+import { Grid } from "@mui/material";
 
 const devIconStyle = {
-  width: "25px",
+  width: "40px",
 };
 
 const TechItem = ({ title, icon, message }) => {
-
   return (
     <Grid item xs={12} sm={6} md={4}>
       <Accordion>
@@ -25,13 +24,11 @@ const TechItem = ({ title, icon, message }) => {
           <Typography ml={5}>{title}</Typography>
         </AccordionSummary>
         <AccordionDetails>
-          <Typography>
-            {message}
-          </Typography>
+          <Typography>{message}</Typography>
         </AccordionDetails>
       </Accordion>
     </Grid>
-  )
-}
+  );
+};
 
 export default TechItem;

@@ -6,6 +6,12 @@ const techData = [
       "Escribo código de manera casi autónoma. Domino los Hooks básicos como useState, useEffect, useMemo y useContext. Uso del frameword NextJS para construir aplicaciones escalables.",
   },
   {
+    title: "NodeJS / Express",
+    icon: "nodejs",
+    message:
+      "Conociminetos básicos de desarrollo backend con node, express y mongodb",
+  },
+  {
     title: "JavaScript",
     icon: "js_badge",
     message:
@@ -37,9 +43,10 @@ const techData = [
       "Manejo el nivel básico de Git. Conozco cómo manejar un repositorio y como modificarlo, añadiendo nuevas branches, como modificando y/o eliminando las actuales. Se como actualizar un repositorio remoto y manejarlo directamente desde la consola.",
   },
   {
-    title: "MySql",
-    icon: "mysql",
-    message: "Puedo crear y administrar BBDDs MySQL y NoSQL",
+    title: "SQL / NoSQL",
+    icon: "database",
+    message:
+      "Puedo crear y administrar BBDDs SQL y NoSQL, como lo son MysSQL y MongoDb ",
   },
   {
     title: "Illustrator / Figma",
