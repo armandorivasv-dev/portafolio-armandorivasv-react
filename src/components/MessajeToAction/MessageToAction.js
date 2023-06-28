@@ -50,7 +50,7 @@ const MessageToAction = ({ intro, title, message, color }) => {
           justifyContent="center"
         >
           <Button
-            href="mailto:hola@armandoweb.agency"
+            href="mailto:armandorivasv.dev@gmail.com"
             target="_blank"
             variant="contained"
             color="buttonColor"
