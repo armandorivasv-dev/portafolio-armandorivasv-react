@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.2278cef1.chunk.css",
-  "main.js": "/static/js/main.63a6c04b.chunk.js",
-  "main.js.map": "/static/js/main.63a6c04b.chunk.js.map",
+  "main.js": "/static/js/main.d5e769ce.chunk.js",
+  "main.js.map": "/static/js/main.d5e769ce.chunk.js.map",
   "static/js/1.086b4935.chunk.js": "/static/js/1.086b4935.chunk.js",
   "static/js/1.086b4935.chunk.js.map": "/static/js/1.086b4935.chunk.js.map",
   "static/js/2.f3c38f2b.chunk.js": "/static/js/2.f3c38f2b.chunk.js",
@@ -11,6 +11,6 @@
   "static/media/logo-armandorivasv-dev.png": "/static/media/logo-armandorivasv-dev.4f97ce53.png",
   "static/css/main.2278cef1.chunk.css.map": "/static/css/main.2278cef1.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.3833e201ec7e05dd467c8b5a97e32159.js": "/precache-manifest.3833e201ec7e05dd467c8b5a97e32159.js",
+  "precache-manifest.5dc9dbdbe21ad801ecdbd4aafca5a9f4.js": "/precache-manifest.5dc9dbdbe21ad801ecdbd4aafca5a9f4.js",
   "service-worker.js": "/service-worker.js"
 }

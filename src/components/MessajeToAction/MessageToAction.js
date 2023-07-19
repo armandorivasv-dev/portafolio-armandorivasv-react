@@ -59,7 +59,7 @@ const MessageToAction = ({ intro, title, message, color }) => {
             CONTACTAME
           </Button>
           <Button
-            href="..\assets\cv\cv-armando-rivas-desarrollador-frontend-react-19jun.pdf"
+            href="..\assets\cv\curriculum-armando-rivas-desarrollador-frontend-react.pdf"
             variant="contained"
             color="buttonColor"
             endIcon={<DownloadIcon />}

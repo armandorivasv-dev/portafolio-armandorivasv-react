@@ -1,9 +1,9 @@
 export const messageintro = [
   {
     intro: "Hola, soy Armando Rivas",
-    title: "Desarrollador FrontEnd",
+    title: "Desarrollador Frontend React",
     message:
-      "Desarrollo de aplicaciones web escalables con ReactJS y JavaScript.",
+      "con experiencia en el desarrollo de aplicaciones web escalables utilizando React y JavaScript, enfocado en brindar una excelente experiencia al usuario.",
   },
 ];
 export const messageservice = [
