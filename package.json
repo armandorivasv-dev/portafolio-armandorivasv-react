@@ -1,5 +1,5 @@
 {
-  "name": "armandoweb-agency",
+  "name": "armandorivasv.dev",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,7 +18,7 @@
     "react-scroll": "^1.8.7",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://armandoweb.agency/",
+  "homepage": "https://armandorivasv-dev.web.app/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
