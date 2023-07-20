@@ -3,13 +3,13 @@ const techData = [
     title: "ReactJS / NextJS",
     icon: "react",
     message:
-      "Escribo código de manera casi autónoma. Domino los Hooks básicos como useState, useEffect, useMemo y useContext. Uso del frameword NextJS para construir aplicaciones escalables.",
+      "Escribo código de manera casi autónoma. Uso de hooks, context. Uso del frameword NextJS para construir aplicaciones escalables.",
   },
   {
     title: "NodeJS / Express",
     icon: "nodejs",
     message:
-      "Conociminetos básicos de desarrollo backend con node, express y mongodb",
+      "Conociminetos básicos de desarrollo backend con node, express y mongodb, creacion de API, Auth con JWT",
   },
   {
     title: "JavaScript",
@@ -28,7 +28,7 @@ const techData = [
     title: "HTML5",
     icon: "html5",
     message:
-      "Escribo codigo de manera casi autónoma, solamente utilizando la documentación para algunas cosas. Conozco la lista de etiquetas, como también la mayoría de sus propiedades. Se como interactuar con JS y con CSS.",
+      "Escribo codigo de manera autónoma, solamente utilizando la documentación para algunas cosas. Conozco la lista de etiquetas, como también la mayoría de sus propiedades. Se como interactuar con JS y con CSS.",
   },
   {
     title: "CSS3",
