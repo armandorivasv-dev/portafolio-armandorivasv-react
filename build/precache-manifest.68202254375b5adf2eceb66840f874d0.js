@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ef5a01d701e1dd4bd948",
+    "revision": "d01b8f3709376dd6ec28",
     "url": "/static/css/main.2278cef1.chunk.css"
   },
   {
-    "revision": "ef5a01d701e1dd4bd948",
-    "url": "/static/js/main.ef5a01d7.chunk.js"
+    "revision": "d01b8f3709376dd6ec28",
+    "url": "/static/js/main.d01b8f37.chunk.js"
   },
   {
     "revision": "086b4935a08e44fc8a7d",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/static/media/logo-armandorivasv-dev.4f97ce53.png"
   },
   {
-    "revision": "d4a680c09804c5b3f2f7d87756bd9ef3",
+    "revision": "2521b46207997beae58cd787005cb5bf",
     "url": "/index.html"
   }
 ];
